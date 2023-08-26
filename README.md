@@ -2,7 +2,7 @@
 
 LBGG is a [(WIP) site](https://lbgg.netlify.app) for hosting video game challenge run leaderboards. It has support for speedruns (fastest completion of a certain goal), high scores, and more.
 
-We also have an [infosite](https://info.leaderboards.gg) that gives more details on our goals, as well as a [Discord group](https://discord.gg/d3JD8nsD) (because of course we do :^)). Feel free to join!
+We also have an [infosite](https://info.leaderboards.gg) that gives more details on our goals, as well as a [Discord group](https://discord.gg/d3JD8nsD)
 
 ## Repos
 
