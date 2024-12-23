@@ -8,6 +8,6 @@ We also have an [infosite](https://info.leaderboards.gg) that gives more details
 
 * [Frontend](https://github.com/leaderboardsgg/leaderboard-site) - Nuxt
 * [Backend](https://github.com/leaderboardsgg/leaderboard-backend) - .NET
-    * Read the readme and the [contribution guidelines](github.com/leaderboardsgg/leaderboard-backend/wiki#for-contributing) to get started
+    * Read the readme and the [contribution guidelines](https://github.com/leaderboardsgg/leaderboard-backend/wiki#for-contributing) to get started
 * [Infosite](https://github.com/leaderboardsgg/infosite) - Nuxt
 * [Admin site](https://github.com/leaderboardsgg/leaderboard-admin) - Vue
